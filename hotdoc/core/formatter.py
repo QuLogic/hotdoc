@@ -816,7 +816,6 @@ class Formatter(Configurable):
                                'symbol': callable_,
                                'return_value': return_value_detail,
                                'parameters': parameters,
-                               'callable_type': callable_type,
                                'tags': tags,
                                'extra': callable_.extension_contents})
 
